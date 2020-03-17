@@ -1,4 +1,4 @@
-# flutterapptest
+# flutterapp
 
 A new Flutter application.
 
