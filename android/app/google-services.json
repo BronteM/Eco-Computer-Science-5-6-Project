@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "694741385281",
+    "firebase_url": "https://candor-computer-science.firebaseio.com",
+    "project_id": "candor-computer-science",
+    "storage_bucket": "candor-computer-science.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694741385281:android:a7806d2639f975e26086c0",
+        "android_client_info": {
+          "package_name": "Candor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694741385281-f3i9m7nc8brdm2ro66vun4kadcdoj8fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISAV3qOyeEGJd-yACH38_r6h8wupad1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694741385281-f3i9m7nc8brdm2ro66vun4kadcdoj8fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694741385281:android:da2d8a90a0d46f676086c0",
+        "android_client_info": {
+          "package_name": "com.test.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694741385281-f3i9m7nc8brdm2ro66vun4kadcdoj8fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISAV3qOyeEGJd-yACH38_r6h8wupad1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694741385281-f3i9m7nc8brdm2ro66vun4kadcdoj8fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
